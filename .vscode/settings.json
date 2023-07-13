@@ -1,5 +1,14 @@
 {
   "tailwindCSS.experimental.classRegex": [
     ["cva(?:<[^>]*>)?(([^)]*))", "[\"'`]([^\"'`]*).*?[\"'`]", "(?:twMerge|twJoin)\\(([^\\);]*)[\\);]"]
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#0000",
+    "editor.background": "#141414",
+    "editorWarning.foreground": "#3b3b3b",
+    "editorUnnecessaryCode.border": "#cccccc8e",
+    "activityBar.background": "#102E52",
+    "titleBar.activeBackground": "#174073",
+    "titleBar.activeForeground": "#F8FAFE"
+  }
 }
